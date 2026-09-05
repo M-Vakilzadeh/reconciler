@@ -7,10 +7,13 @@
 
 ## دانلود
 
-آخرین نسخه: **[صفحهٔ انتشارها](https://github.com/M-Vakilzadeh/reconciler/releases/latest)**
+**[دانلود آخرین نسخه — BankReconciler.zip](https://github.com/M-Vakilzadeh/reconciler/releases/latest/download/BankReconciler.zip)**
 
-از آنجا **`BankReconciler.zip`** را بگیرید، بازش کنید و `BankReconciler.exe` را هرجا که
-دوست دارید بگذارید — دسکتاپ، یک پوشه، یک فلش. با دوبار کلیک اجرا می‌شود.
+این پیوند همیشه تازه‌ترین انتشار را می‌دهد؛ فهرست همهٔ نسخه‌ها و یادداشت هر کدام در
+[صفحهٔ انتشارها](https://github.com/M-Vakilzadeh/reconciler/releases) است.
+
+zip را بازش کنید و `BankReconciler.exe` را هرجا که دوست دارید بگذارید — دسکتاپ، یک
+پوشه، یک فلش. با دوبار کلیک اجرا می‌شود.
 
 فایل `بخوانید.txt` داخل zip می‌گوید ویندوز در اولین اجرا چه پیغامی نشان می‌دهد
 («Windows protected your PC») و کدام دکمه را بزنید: **More info** و سپس **Run anyway**.
